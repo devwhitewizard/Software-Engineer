@@ -1,0 +1,13 @@
+{    
+    "name": "Nexus Wizard",
+    "email": "nexus@gmail.com",
+    "password": "123456",
+    "role": "admin"
+}
+
+{    
+    "name": "White",
+    "email": "white@gmail.com",
+    "password": "123456",
+    "role": "moderator"
+}
